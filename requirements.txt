@@ -1,0 +1,10 @@
+tensorflow
+keras
+opencv-contrib-python
+split-folders
+Numpy
+Pandas
+Scikit-learn
+Matplotlib
+Scipy
+Seaborn
